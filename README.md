@@ -80,11 +80,6 @@ The EC & temperature values will be displayed on a **0.96" I2C OLED Display** an
 
 ---
 
-## Demo & Screenshots  
-*Add images/screenshots here*
-
----
-
 ## License  
 This project is open-source and available under the **MIT License**.
 
