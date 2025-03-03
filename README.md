@@ -72,11 +72,11 @@ The EC & temperature values will be displayed on a **0.96" I2C OLED Display** an
 ---
 
 ## Features  
-✅ Real-time monitoring of water quality parameters  
-✅ IoT-based remote monitoring via ThingSpeak  
-✅ OLED display for local visualization  
-✅ Alerts for exceeding water quality thresholds  
-✅ Low-cost and energy-efficient solution  
+ Real-time monitoring of water quality parameters  
+ IoT-based remote monitoring via ThingSpeak  
+ OLED display for local visualization  
+ Alerts for exceeding water quality thresholds  
+ Low-cost and energy-efficient solution  
 
 ---
 
@@ -85,15 +85,6 @@ The EC & temperature values will be displayed on a **0.96" I2C OLED Display** an
 
 ---
 
-## Contributing  
-Feel free to contribute by improving the code, adding more features, or optimizing the system. Fork this repository and submit a pull request!
-
----
-
 ## License  
 This project is open-source and available under the **MIT License**.
 
----
-
-## Contact  
-For any queries or suggestions, please feel free to reach out!
